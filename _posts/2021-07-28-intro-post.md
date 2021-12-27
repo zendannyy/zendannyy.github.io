@@ -3,7 +3,8 @@ layout: post
 title: Intro Post
 ---
 
-I would assimilate improving your skills in tech as to getting better at basketball, let me tell you what I mean by that. With minimal equipment, you can practice the sport and over time improve your game (all you need is a ball and a makeshift hoop). < -- This is how I started 😅 . With the proper motivation you can continuously get better at basketball and this doesn’t require anything fancy or a huge investment.  
+I would assimilate improving your skills in tech as to getting better at basketball, let me tell you what I mean by that. With minimal equipment, you can practice the sport and over time improve your game (all you need is a ball and a makeshift hoop). < -- This is how I started 😅 . 
+With the proper motivation you can continuously get better at basketball and this doesn’t require anything fancy or a huge investment.  
 <br>
 
 ![Opportunities]({{site.baseurl}}/images/basketball.jpeg)
