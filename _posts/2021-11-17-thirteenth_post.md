@@ -9,6 +9,9 @@ Searching the phrase awesome “literally any security domain”  will give you 
 For example awesome “pentesting”  or awesome “blue team”  or awesome "macos security" 
 Even if you don’t include github in your search it should be the top result in google.
 
+![Github Search](/images/github_search.png)
+
+
 ### Command Line Kung Fu
 [CommandLineKungFu]
 (http://blog.commandlinekungfu.com/)
@@ -18,8 +21,7 @@ focuses on the “how”.
 
 ### Coursera
 Coursera.org
-[Coursera.org]
-(https://www.coursera.org/promo/9pKuaUa9daFdNgMEs6HtJKzoQ?utm_campaign=Refer-a-friend+Landing+Page+-+Adding+WhatsApp&utm_content=personal_url&utm_medium=referral&utm_source=Friendbuy&fbuy_ref_code=qOmaA/)
+[Coursera.org](https://www.coursera.org/promo/9pKuaUa9daFdNgMEs6HtJKzoQ?utm_campaign=Refer-a-friend+Landing+Page+-+Adding+WhatsApp&utm_content=personal_url&utm_medium=referral&utm_source=Friendbuy&fbuy_ref_code=qOmaA/)
 A MOOC (massive open online course). It has plenty of options for Information Security and courses are free when you audit them. This gives you the same access as paying, just no certificate when you complete it.
 
 ### Cyberdefenders
