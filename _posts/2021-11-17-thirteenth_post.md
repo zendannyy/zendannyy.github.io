@@ -3,7 +3,7 @@ layout: post
 title: Cybsersecurity Resources for the Community
 ---
 
-I put together some resources on Cybersecurity. I’ve discussed some of these in our Cybersecurity live rooms. 
+I put together some resources on Cybersecurity.
 
 Searching the phrase awesome “literally any security domain”  will give you github compilations of resources for that topic.
 For example awesome “pentesting”  or awesome “blue team”  or awesome "macos security" 
