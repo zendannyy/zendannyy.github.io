@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Pushing Internal Data To Repo: An Anecdote 
+title: Pushing Internal Data To Repo:
+An Anecdote 
 ---
 
 Wanted to tell a quick story of one of the close calls I had working in Security this year. 
