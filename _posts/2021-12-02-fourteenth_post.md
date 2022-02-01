@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Pushing Internal Data To Repo:
-An Anecdote 
+title: Pushing Internal Data To Repo - An Anecdote 
 ---
 
 Wanted to tell a quick story of one of the close calls I had working in Security this year. 
@@ -11,6 +10,7 @@ I have a running list of notes I keep on my work laptop. Think things like defin
 
 The problem was there was an internal webhook in the file. Webhooks are “always on" listeners that will deliver data when a specified action occurs. Think of a Typeform or Slack notification. A couple days later I was notified of this problem, and I double checked the github push. Sure enough there was the webhook. We start an incident and remediation starts. 
 
+<br>
 ![Github Push Meme](/images/github_push.jpeg)
 <br>
 
