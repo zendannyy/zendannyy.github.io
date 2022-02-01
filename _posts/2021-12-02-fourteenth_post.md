@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cybsersecurity Resources for the Community
+title: Pushing Internal Data To Repo: An Anecdote 
 ---
 
 Wanted to tell a quick story of one of the close calls I had working in Security this year. 
