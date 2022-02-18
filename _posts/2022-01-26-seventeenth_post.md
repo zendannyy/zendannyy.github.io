@@ -13,10 +13,12 @@ This will pull up a side pane of the Elements of the webpage. Although this look
 <br>
 
 ![Inspect Element](/images/Inspect_Element.png)
+<br>
 
 Try “Twitter” or “Facebook” or any other big social media site and you might be surprised. 
 Another search to try is “pixel” as these are on most modern sites and also serve the same purpose.
 This is the main way sites seem to know what you want in that “creepy” way. 
 There are some tactics we can make to lmit htis activity, but overall I believe it is good to be aware of this activity. 
+<br>
 
 In a later post, I will dicuss more about this and what you can do to increase your privacy online.
