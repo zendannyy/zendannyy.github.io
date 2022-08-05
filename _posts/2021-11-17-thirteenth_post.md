@@ -3,7 +3,7 @@ layout: post
 title: Cybsersecurity Resources for the Community
 ---
 
-I put together some resources on Cybersecurity.stop_loss
+I put together some resources on Cybersecurity
 
 Searching the phrase awesome “literally any security domain”  will give you github compilations of resources for that topic.
 For example awesome “pentesting”  or awesome “blue team”  or awesome "macos security" 
@@ -35,3 +35,5 @@ This is one I recently discovered. It is a CTF platform (Capture the Flag) with 
 Another CTF based platform. This one has various options as well, I recommend starting with Bandit, it will start teaching you the basics and progressively get more difficult. If you’re starting from scratch, start here before going to Cyberdefenders.
 
 I hope these resources help in learning more about the field and getting started!
+<br>
+
