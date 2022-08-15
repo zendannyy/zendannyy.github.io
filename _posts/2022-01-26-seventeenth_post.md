@@ -7,7 +7,7 @@ In one of the Cybersecurity liveroom I've done we spoke about personal security 
 
 
 3 areas touched on were about protecting yourself in your browser, your email, and having 2FA on all your accounts.  
-One part I mentioned got some attention from folks, which was browser security and privacy when it comes to trackers. I wanted to write this to give more context. 
+One part I mentioned got some attention from folks, which was browser security and privacy when it comes to trackers. I wanted to write about this to give more context. 
 
 
 To start, let's talk about how a tracker works. A tracker is essentially a script on websites designed to derive data points from you as a user. This means your preferences, browsing activity and so forth. This is how you seem to get ads that are TOO relevant and can be creepy at times. To see this in action go to your browser on desktop and right-click > Inspect 
