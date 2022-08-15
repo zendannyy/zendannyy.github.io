@@ -21,7 +21,7 @@ This will pull up a side pane of the Elements of the webpage. Although this look
 Try “Twitter” or “Facebook” or any other big social media site and you might be surprised. 
 Another search to try is “pixel” as these are on most modern sites and also serve the same purpose.
 This is the main way sites seem to know what you want in that “creepy” way. 
-There are some tactics we can make to lmit htis activity, but overall I believe it is good to be aware of this activity. 
+There are some tactics we can make to limit this activity, but overall I believe it is good to be aware of this activity. 
 <br>
 
-In a later post, I will dicuss more about this and what you can do to increase your privacy online.
+In a later post, I will discuss more about this and what you can do to increase your privacy online.
