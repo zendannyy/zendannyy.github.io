@@ -3,7 +3,7 @@ layout: post
 title: Blue Team Deep Dive
 ---
 
-In the past, I’ve talked about the different career paths within Cybersecutity and all the options there are. It is a very broad field and one that can accommodate various interests.
+In the past, I’ve talked about the different career paths within Cybersecurity and all the options there are. It is a very broad field and one that can accommodate various interests.
 
 For example, [here](https://zendannyy.github.io/twelfth_post/) here I wrote about 4 different roles and how they align in the cybersecurity field.
 You can think of Blue Team and Red Team as fields of their own. Within these two there are numerous roles that cover a wide array of responsibilities.
