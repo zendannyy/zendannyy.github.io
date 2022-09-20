@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cybersecurity Career Paths````: Incident Response, SOC
+title: Cybersecurity Career Paths - Incident Response, SOC
 ---
 
 I will be doing a deep dive on Incident response (IR for short) and Security Operations Center (SOC for short). I have grouped these together as a lot of the times they are used interchangeably. This will be part 2 of a 4 part [series](2022-02-17-eighteenth_post.md) around cybersecurity career paths.
