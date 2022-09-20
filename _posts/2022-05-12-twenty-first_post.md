@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cybersecurity Career Paths: Incident Response, SOC
+title: Cybersecurity Career Paths - Incident Response, SOC
 ---
 
 I will be doing a deep dive on Incident response (IR for short) and Security Operations Center (SOC for short). I have grouped these together as a lot of the times they are used interchangeably. This will be part 2 of a 4 part [series](2022-02-17-eighteenth_post.md) around cybersecurity career paths.
@@ -31,17 +31,23 @@ What has been a trend (especially in tech companies) is a more flat approach. Wh
 ## Incident Response
 
 ![Incident Response](/images/incident-response.jpeg)
+<p align = "center">
+Steps of Incident Response lifecycle
+</p>
+<br>
+
 
 Incident response is sometimes used interchangeably with SOC as it can be conducted by the same team. Although it can be a team on its own. In this area of Security, operating under pressure and being able to coordinate moving parts is crucial.
 
 You can think of this area of Cybersecurity as paramedic work, often working in adverse circumstances but needing to execute the task at hand. When you read about a breach and all the work that was done in recovery of it, you can bet the Incident Response team was behind the scenes coordinating the efforts to remediate the situation. You can think of this last piece of the job as Traffic Control, needing to be able to coordinate the moving parts and keep order in an otherwise stressful situation. Someone could make an entire career in Incident Response as it is always in demand and is a skill sought after.
 
 For more details on the Incident Handling lifecycle see
-(https://www.sans.org/media/score/504-incident-response-cycle.pdf)
+<https://www.sans.org/media/score/504-incident-response-cycle.pdf>
 <br>
 
 For resources to learn even more see
-(https://github.com/meirwah/awesome-incident-response)
+
+<https://github.com/meirwah/awesome-incident-response>
 <br>
 
 Hope this was helpful in understanding the career path and domain of Incident Response.
