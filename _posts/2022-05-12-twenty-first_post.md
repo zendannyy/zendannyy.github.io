@@ -31,6 +31,11 @@ What has been a trend (especially in tech companies) is a more flat approach. Wh
 ## Incident Response
 
 ![Incident Response](/images/incident-response.jpeg)
+<p align = "center">
+Steps of Incident Response lifecycle
+</p>
+<br>
+
 
 Incident response is sometimes used interchangeably with SOC as it can be conducted by the same team. Although it can be a team on its own. In this area of Security, operating under pressure and being able to coordinate moving parts is crucial.
 
@@ -41,6 +46,7 @@ For more details on the Incident Handling lifecycle see
 <br>
 
 For resources to learn even more see
+
 <https://github.com/meirwah/awesome-incident-response>
 <br>
 
